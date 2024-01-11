@@ -1,0 +1,21 @@
+{
+  "name": "TheCans #10",
+  "symbol": "CAN",
+  "description": "Can Party",
+  "image": "10.png",
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bg3"
+    },
+    {
+      "trait_type": "Base",
+      "value": "base"
+    },
+    {
+      "trait_type": "Can",
+      "value": "can2"
+    }
+  ]
+}

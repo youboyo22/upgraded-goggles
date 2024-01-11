@@ -1,0 +1,33 @@
+{
+    "mnemonic": "amateur vast camera jewel park match play century road game deer crawl",
+    "rpc": "https://rpc.sei-apis.com",
+    "network": "pacific-1",
+    "name": "kaleng banci",
+    "symbol": "kbn",
+    "description": "",
+    "supply": 10,
+    "token_uri": "",
+    "royalty_percent": 9,
+    "royalty_wallet": "sei10rjl2dt3qyv69shd9wfy825zrqw2f2xv9rrjjd",
+    "iterated_uri": true,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+        {
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 0,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei10rjl2dt3qyv69shd9wfy825zrqw2f2xv9rrjjd",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-01-11T14:07:53Z",
+            "end_time": null
+        }
+    ]
+}
